@@ -1,2 +1,2 @@
-sublime-text-icon
+Sublime Text Icon
 =================
