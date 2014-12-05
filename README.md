@@ -4,7 +4,7 @@ A replacement icon for Sublime Text 2 and 3.
 
 ## Preview
 
-![Preview](png/1024x1024.png)
+![Preview](png/512x512.png)
 
 
 ## Installation (Mac OS X)
